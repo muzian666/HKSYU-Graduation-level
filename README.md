@@ -1,1 +1,2 @@
-# HKSYU-Graduation-level
+# HKSYU 毕业等级预测 (Ver. 0.1)
+# 只是一个非常不成熟的想法，这是一个刚刚诞生的项目
